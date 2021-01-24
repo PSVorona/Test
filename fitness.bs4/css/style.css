@@ -1,0 +1,176 @@
+* {
+  /*outline: 1px solid lightblue;*/
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  font-size: 2.1875rem;
+  font-weight: 300;
+}
+.text-color-white {
+  color: #fff;
+}
+.text-color-lime {
+  color: #a2ca28;
+}
+.text-color-darkgray {
+  color: #656e74;
+}
+.text-color-coral {
+  color: #fd634e;
+}
+.text-color-gray {
+  color: #8297a7;
+}
+.bg-lime {
+  background-color: #a2ca28;
+}
+.bg-coral {
+  background-color: #fd634e;
+}
+.bg-darkblue {
+  background-color: #0d1119;
+}
+section p, footer p {
+  line-height: 1.625rem;
+}
+.card h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.125em;
+}
+/*======================header======================= */
+header {
+  background: url(../img/main-banner.jpg) no-repeat center #a2ca28;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 890px;
+}
+header .navbar-brand {
+font-size: 1.5rem;
+}
+header nav a, header nav a:active, header nav a:hover{
+ color: #fff;
+ position: relative;
+}
+header nav a::before {
+  position: absolute;
+  content: '';
+  width: 0;
+  height: 3px;
+  background-color: #a2ca28;
+  top: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  left: 50%;
+  transition: .3s;
+}
+header nav a:hover::before {
+  transition: .3s;
+  width: 100%;
+  left: 0;
+}
+@media (min-width: 992px) {
+  header h6 {
+    margin-left: 175px;
+  }
+}
+@media (max-width: 991.98px) {
+  header {
+    height: 100vh;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+}
+/*======================advantages======================= */
+.advantages .img-container {
+  height: 50px;
+}
+.advantages .card-text, .advantages h6, .other-news .card-text, .other-news h6 {
+  font-size: 0.875rem;
+}
+.advantages .card-link, .advantages .card-link:active, .advantages .card-link:hover{
+ color: #fff;
+  font-size: 0.875rem;
+}
+.main-news .card-link, .main-news .card-link:hover, .main-news .card-link:active{
+  color: #a2ca28;
+  font-size: 0.875rem;
+}
+.main-news .card-link:hover{
+text-decoration: underline dotted;
+}
+/*======================news======================= */
+@media (min-width: 992px) {
+  .main-news .card {
+    height: 395px;
+  }
+}
+.news-image-caption img {
+  height: 30px;
+}
+.main-news .card-img, .other-news .card-img {
+  object-fit: cover;
+}
+.other-news .card {
+  height: 640px;
+}
+/*======================leaders======================= */
+section.leaders {
+  background: url(../img/leaders.jpg) center no-repeat;
+  height: 100vh;
+  width: auto;
+  background-size: cover;
+}
+@media (min-width: 992px) {
+  section.leaders {
+    height: 798px;
+  }
+}
+.leaders h2 {
+font-size: 2.8125rem;
+}
+.leaders-header-container p{
+max-width: 500px;
+}
+footer p {
+  font-size: 0.875rem;
+}
+.fab {
+  width: 51px;
+  height: 51px;
+  line-height: 51px;
+}
+.fa-facebook-f {
+  background-color: #2e3192;
+}
+.fa-twitter {
+  background-color: #00aeef;
+}
+.fa-linkedin-in {
+  background-color: #171a8f;
+
+}
+.fa-youtube {
+  background-color: #ed3123;
+}
+.newsletter input, .newsletter button{
+height: 50px;
+}
+.newsletter-submit {
+  min-width: 180px;
+}
+.newsletter-name {
+  min-width: 200px;
+}
+@media (max-width: 767.98px) {
+  .newsletter-input-container, .newsletter input.newsletter-name, .newsletter button{
+  width: 100%;
+  }
+}
+.social-icons a, .social-icons a:hover, .social-icons a:active {
+color: #fff;
+}
