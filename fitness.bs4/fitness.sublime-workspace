@@ -1,0 +1,1381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"p",
+				"p\tpadding"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"objec",
+				"object-fit\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"s",
+				"Share.png\tw:19 h:17"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"mw",
+				"min-width\tproperty"
+			],
+			[
+				"lh",
+				"line-height\tproperty"
+			],
+			[
+				"b",
+				"bottom\tvertical-align"
+			],
+			[
+				"ea",
+				"ease-in\tanimation-timing-function"
+			],
+			[
+				"ani",
+				"animation-name\tproperty"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"spa",
+				"spans"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"ti",
+				"timerId"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"du",
+				"document"
+			],
+			[
+				"fo",
+				"forwards\tanimation-fill-mode"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"sc",
+				"src\tAttr"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"cp",
+				"cur-p\tcursor: pointer;"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"l",
+				"left\ttext-align"
+			],
+			[
+				"mr-a",
+				"mr-a\tmargin-right: auto;"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"inst",
+				"Instructors"
+			],
+			[
+				"bgzc",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"po",
+				"pointer\tcursor"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"nav",
+				"navToggle"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"script",
+				"scripts"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"se",
+				"searchInput"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"va",
+				"valuesArr"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ca",
+				"capitalization"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"fi",
+				"firstRect"
+			],
+			[
+				"grid",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"get",
+				"get_location"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"tea",
+				"text-align\tproperty"
+			],
+			[
+				"span",
+				"spanCheck"
+			],
+			[
+				"gla",
+				"glassesImagesURL"
+			],
+			[
+				"gl",
+				"glassesDescriptionPopup"
+			],
+			[
+				"ite",
+				"itemDescription"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"borderb",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"borderri",
+				"border-right-color\tproperty"
+			],
+			[
+				"border-left",
+				"border-left-color\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"ne",
+				"nextSibling"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"sel",
+				"selElmnt"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border-spacing\tproperty"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			],
+			[
+				"coc",
+				"cooctail-name"
+			],
+			[
+				"me",
+				"menu-element"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"new",
+				"newIngredient"
+			],
+			[
+				"fonts",
+				"font-style\tproperty"
+			],
+			[
+				"select",
+				"select-units"
+			],
+			[
+				"value",
+				"value\tAttr"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"arr",
+				"arrowLeft"
+			],
+			[
+				"ar",
+				"arrowRight"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"border-t",
+				"border-top-color\tproperty"
+			],
+			[
+				"im",
+				"image2"
+			],
+			[
+				"ef",
+				"left\tclear"
+			],
+			[
+				"borbo",
+				"border-bottom\tproperty"
+			],
+			[
+				"border-to",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"border-rig",
+				"border-right\tproperty"
+			],
+			[
+				"boxs",
+				"box-sizing\tproperty"
+			],
+			[
+				"borderco",
+				"border-collapse\tproperty"
+			],
+			[
+				"mirt",
+				"margin-top\tproperty"
+			],
+			[
+				"w",
+				"white-space\tproperty"
+			],
+			[
+				"labe",
+				"labels"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bordera",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"bordra",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"borbot",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"borra",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"baoc",
+				"background-color\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"border-ri",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"border-right-r",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"background-cl",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/ospanel/domains/bootstraplearn/fitness.bs4/index.html",
+			"settings":
+			{
+				"buffer_size": 17107,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/ospanel/domains/bootstraplearn/fitness.bs4/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3272,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"nsta",
+				"Package Control: Install Package"
+			],
+			[
+				"livere",
+				"LiveReload: Self test"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"find",
+				"FindKeyConflicts: (Direct) Conflicts to Quick Panel"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"sublime.log_input(True)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/ospanel/domains/bootstraplearn/fitness.bs4",
+		"/D/ospanel/domains/bootstraplearn/fitness.bs4/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DRa2008.40553/index.html",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/css/style.css",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DRa3292.35090/index.html",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/D/ospanel/domains/ЗАГОТОВКА ПОД BOOTSTRAP/index.html",
+		"/D/ospanel/domains/bootstraplearn/shopy.pv/css/style.css",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/product.html",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/home.html",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/products.html",
+		"/F/MEGA/PSD Шаблоны/свёрстанные/Projects/longbeach/css/main.css",
+		"/C/Users/Павел/Desktop/app.css",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/range.html",
+		"/C/Users/Павел/Desktop/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/index.html",
+		"/C/Users/Павел/Desktop/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/jquery-ui.css",
+		"/C/Users/Павел/Desktop/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/jquery-ui.theme.css",
+		"/C/Users/Павел/Desktop/nativeMultiple-master/bower.json",
+		"/C/Users/Павел/Desktop/nativeMultiple-master/stylesheets/stylesheet.css",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DIa11600.39584/README.md",
+		"/D/ospanel/domains/bootstraplearn/shopy.pv/home.html",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/js/script.js",
+		"/D/ospanel/domains/bootstraplearn/02_28_files/index.html",
+		"/D/ospanel/domains/bootstraplearn/shopy.pv/browsersync.bat",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/node_modules/@popperjs/core/src/index.js",
+		"/C/Users/Павел/Desktop/package.json",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/package.json",
+		"/C/Users/Павел/Desktop/Vector Smart Object copy.svg",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DRa8992.34627/index.html",
+		"/D/ospanel/domains/bootstraplearn/shopy.pv/js/script.js",
+		"/F/Dropbox/shopy.pv/home.html",
+		"/F/Dropbox/ЗАГОТОВКА ПОД BOOTSTRAP/index.html",
+		"/D/OSPanel/domains/ЗАГОТОВКА ПОД BOOTSTRAP/js/script.js",
+		"/F/Dropbox/ЗАГОТОВКА ПОД BOOTSTRAP/js/script.js",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DRa8992.21940/index.html",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DRa14008.19550/js/main.js",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DRa8992.17661/css/style.css",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DIa8992.5497/main.js",
+		"/D/OSPanel/domains/bootstraplearn/shopy.pv/shopy.sublime-project",
+		"/F/ospanel/domains/bootstraplearn/shopy.pv/home.html",
+		"/C/Users/Павел/Desktop/shopy.pv/browsersync.bat",
+		"/C/Users/Павел/Desktop/shopy.pv/script.js",
+		"/C/Users/Павел/Desktop/shopy.pv/home.html",
+		"/C/Users/Павел/Desktop/shopy.pv/products.html",
+		"/C/Users/Павел/Desktop/shopy.pv/product.html",
+		"/C/Users/Павел/Desktop/shopy.pv/style.css",
+		"/C/Users/Павел/Desktop/shopy.pv/script",
+		"/F/OSPanel/domains/bootstraplearn/scroll.html",
+		"/F/ospanel/domains/bootstraplearn/start.html",
+		"/F/ospanel/domains/bootstraplearn/index.html",
+		"/F/ospanel/domains/bootstraplearn/blog.html",
+		"/F/OSPanel/domains/bootstraplearn/second.html",
+		"/F/ospanel/domains/bootstraplearn/browsersync.bat",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/util-deprecate/browser.js",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/term-size/index.js",
+		"/F/OSPanel/domains/bootstraplearn/02_28_files/css/style.css",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1/bootstrap-4.4.1/scss/bootstrap.scss",
+		"/C/Users/Павел/Desktop/Фреймворк Bootstrap 4. Руководство по адаптивной верстке (2019)/Bootstrap_4/videokurs/part1/12/01_12_files/bootstrap/scss/_variables.scss",
+		"/C/Users/Павел/Desktop/Фреймворк Bootstrap 4. Руководство по адаптивной верстке (2019)/Bootstrap_4/videokurs/part1/12/01_12_files/index.html",
+		"/C/Users/Павел/Desktop/Фреймворк Bootstrap 4. Руководство по адаптивной верстке (2019)/Bootstrap_4/videokurs/part1/12/01_12_files/style.css",
+		"/C/Users/Павел/Desktop/Фреймворк Bootstrap 4. Руководство по адаптивной верстке (2019)/Bootstrap_4/videokurs/part1/12/01_12_files/bootstrap/scss/bootstrap.scss",
+		"/F/ospanel/domains/bootstraplearn/package-lock.json",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.bundle.js",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.js",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.css",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap-grid.css",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap-reboot.css",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css",
+		"/C/Users/Павел/Desktop/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css",
+		"/F/OSPanel/domains/htmlcssjs.learn/anim/anim.html",
+		"/F/ospanel/domains/law/css/style.css",
+		"/F/OSPanel/domains/law/scripts/script.js",
+		"/F/OSPanel/domains/law/index.html",
+		"/F/ospanel/domains/webdevblog.front/index.html",
+		"/F/OSPanel/domains/webdevblog.front/style.css",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/User/eCSStractor.sublime-settings",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/eCSStractor/eCSStractor.sublime-settings",
+		"/F/OSPanel/domains/law/css/libs/bootstrap-reboot.min.css",
+		"/F/ospanel/domains/law/css/style",
+		"/F/OSPanel/domains/law/style",
+		"/F/OSPanel/domains/longbeach/less/libs/bootstrap-reboot.min.less",
+		"/F/OSPanel/domains/longbeach/js/main.js",
+		"/C/Users/Павел/AppData/Roaming/Sublime Text 3/Packages/eCSStractor/Default (Windows).sublime-keymap",
+		"/F/OSPanel/domains/longbeach/index.html",
+		"/F/OSPanel/domains/longbeach/less/blocks/header.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/nav.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/video.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/reviews.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/instructors.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/blog.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/footer.less",
+		"/F/OSPanel/domains/longbeach/less/blocks/base.less",
+		"/F/OSPanel/domains/webdevblog.front/index.html",
+		"/D/ospanel/domains/longbeach/less/blocks/video.less",
+		"/D/ospanel/domains/longbeach/less/blocks/header.less",
+		"/D/ospanel/domains/longbeach/less/blocks/reviews.less",
+		"/D/ospanel/domains/longbeach/less/blocks/blog.less",
+		"/D/ospanel/domains/longbeach/less/blocks/instructors.less",
+		"/D/ospanel/domains/longbeach/less/blocks/base.less",
+		"/D/ospanel/domains/longbeach/less/blocks/footer.less",
+		"/D/ospanel/domains/longbeach/less/main.less",
+		"/D/ospanel/domains/longbeach/less/blocks/nav.less",
+		"/D/ospanel/domains/longbeach/css/main.css",
+		"/D/OSPanel/domains/longbeach/less/main.less.css",
+		"/D/OSPanel/domains/longbeach/main.css",
+		"/D/OSPanel/domains/longbeach/main.js",
+		"/D/OSPanel/domains/longbeach/style.css",
+		"/D/OSPanel/domains/buysure.loc/scripts/script.js",
+		"/D/OSPanel/domains/buysure.loc/index.html",
+		"/D/OSPanel/domains/buysure.loc/style.css",
+		"/C/Users/Павел/Desktop/test.js",
+		"/C/Users/Павел/Desktop/test.html",
+		"/D/useful materials/ElasticSVGElements/ElasticSVGElements/js/classie.js",
+		"/D/useful materials/ElasticSVGElements/ElasticSVGElements/README.md",
+		"/D/useful materials/ElasticSVGElements/ElasticSVGElements/hamburger.html",
+		"/C/Users/Павел/AppData/Local/Temp/Rar$DIa13956.1297/README.md",
+		"/D/useful materials/ElasticSVGElements/ElasticSVGElements/css/hamburger.css",
+		"/D/useful materials/ElasticSVGElements/ElasticSVGElements/css/demo.css",
+		"/D/useful materials/ElasticSVGElements/ElasticSVGElements/js/snap.svg-min.js",
+		"/D/OSPanel/domains/buysure.loc/script.js",
+		"/D/ospanel/domains/buysure.loc/img/logo.svg",
+		"/C/Users/Павел/Desktop/list-seats.json",
+		"/C/Users/Павел/Desktop/list-blocks.json",
+		"/C/Users/Павел/Desktop/order.payment.json",
+		"/C/Users/Павел/Desktop/logo.svg",
+		"/C/Users/Павел/Desktop/qwerty.html",
+		"/C/Users/Павел/Desktop/jetbrains-agent.jar"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 487.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h6",
+			"fitness-first",
+			"fitne",
+			"tify",
+			"fa",
+			"media",
+			"StilerV",
+			"three",
+			"header-",
+			"sizes",
+			"numbers",
+			"three-dots",
+			"card mb-3 card-product text-center",
+			"flip-card-back",
+			"dropdownMenuLink",
+			"best-sales",
+			"card-img-top",
+			"card ",
+			"card-product",
+			"card ",
+			"text",
+			"card",
+			"card ",
+			"cover",
+			"cont",
+			"fa",
+			"-1",
+			"search",
+			"border",
+			"bor",
+			"searchicon.png",
+			"disab",
+			"h3",
+			"Options",
+			"orth_jump_point_heuristic",
+			"recursion",
+			"Visualize",
+			"label",
+			"class",
+			"label",
+			"\">\n",
+			"\" ",
+			"option_label",
+			"dont_cross_corners",
+			"Allow",
+			"map",
+			"yellow",
+			",\n",
+			"header",
+			"finding",
+			"gulp",
+			"flash"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/ospanel/domains/bootstraplearn/fitness.bs4/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15069,
+								15057
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/D/ospanel/domains/bootstraplearn/fitness.bs4/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3272,
+						"regions":
+						{
+							"col_00AEEFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2809,
+										2816
+									]
+								],
+								"scope": "col_00AEEFFF"
+							},
+							"col_00AEEFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00AEEFFF_circle.png",
+								"regions":
+								[
+									[
+										2789,
+										2789
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0D1119FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										456,
+										463
+									]
+								],
+								"scope": "col_0D1119FF"
+							},
+							"col_0D1119FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0D1119FF_circle.png",
+								"regions":
+								[
+									[
+										436,
+										436
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_171A8FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2858,
+										2865
+									]
+								],
+								"scope": "col_171A8FFF"
+							},
+							"col_171A8FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_171A8FFF_circle.png",
+								"regions":
+								[
+									[
+										2838,
+										2838
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_2E3192FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2764,
+										2771
+									]
+								],
+								"scope": "col_2E3192FF"
+							},
+							"col_2E3192FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_2E3192FF_circle.png",
+								"regions":
+								[
+									[
+										2744,
+										2744
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_656E74FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										246,
+										253
+									]
+								],
+								"scope": "col_656E74FF"
+							},
+							"col_656E74FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_656E74FF_circle.png",
+								"regions":
+								[
+									[
+										237,
+										237
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8297A7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										325,
+										332
+									]
+								],
+								"scope": "col_8297A7FF"
+							},
+							"col_8297A7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8297A7FF_circle.png",
+								"regions":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A2CA28FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										203,
+										210
+									],
+									[
+										367,
+										374
+									],
+									[
+										743,
+										750
+									],
+									[
+										1074,
+										1081
+									],
+									[
+										1897,
+										1904
+									]
+								],
+								"scope": "col_A2CA28FF"
+							},
+							"col_A2CA28FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A2CA28FF_circle.png",
+								"regions":
+								[
+									[
+										194,
+										194
+									],
+									[
+										347,
+										347
+									],
+									[
+										684,
+										684
+									],
+									[
+										1054,
+										1054
+									],
+									[
+										1888,
+										1888
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ADD8E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										25,
+										34
+									]
+								],
+								"scope": "col_ADD8E6FF"
+							},
+							"col_ADD8E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ADD8E6FF_circle.png",
+								"regions":
+								[
+									[
+										4,
+										4
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ED3123FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2904,
+										2911
+									]
+								],
+								"scope": "col_ED3123FF"
+							},
+							"col_ED3123FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ED3123FF_circle.png",
+								"regions":
+								[
+									[
+										2884,
+										2884
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FD634EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										286,
+										293
+									],
+									[
+										410,
+										417
+									]
+								],
+								"scope": "col_FD634EFF"
+							},
+							"col_FD634EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FD634EFF_circle.png",
+								"regions":
+								[
+									[
+										277,
+										277
+									],
+									[
+										390,
+										390
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										167,
+										171
+									],
+									[
+										938,
+										942
+									],
+									[
+										1775,
+										1779
+									],
+									[
+										3264,
+										3268
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										158,
+										158
+									],
+									[
+										930,
+										930
+									],
+									[
+										1767,
+										1767
+									],
+									[
+										3257,
+										3257
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								3269,
+								3269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fitness.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"C:\\Users\\Павел\\Desktop\\Lynda - Learn Sublime Text 3 - The Basics\\Exercise Files\\roux_website\\index.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
